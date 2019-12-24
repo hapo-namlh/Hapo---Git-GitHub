@@ -1,4 +1,4 @@
-test github
+f
 Edit file
 Test conflict on master
 Test conflict on feature/cfl2
