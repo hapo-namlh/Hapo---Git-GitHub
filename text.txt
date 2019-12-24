@@ -2,4 +2,4 @@ test github
 
 Edit file
 
-Test conflict on master
+Test conflict on feature/cfl2
