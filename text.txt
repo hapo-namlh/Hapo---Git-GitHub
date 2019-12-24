@@ -1,5 +1,3 @@
 test github
-
 Edit file
-
 Test conflict on feature/cfl2
